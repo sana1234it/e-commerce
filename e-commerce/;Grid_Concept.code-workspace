@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../;Grid_Concept"
+		},
+		{
+			"path": "../../Bootstrap"
+		},
+		{
+			"path": "../../coffee Shop"
+		},
+		{
+			"path": "../../Ecommerce"
+		},
+		{
+			"path": "../../Food Munch"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Portfolio"
+		},
+		{
+			"path": "../../React JS"
+		},
+		{
+			"path": "../../react_Project"
+		},
+		{
+			"path": "../../Task"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}

@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(238, 238, 238);
+    
+}
+ 
+#cartPage{
+    width: 100%;
+    height: 60vh;
+    overflow: scroll;
+}
+.cart{
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 12px;
+    background-color: aliceblue;
+    
+    
+}
+.cart div{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cartindex{
+    width: 90%;
+    height: 30px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid rgb(138, 137, 137);
+    
+    margin: auto;
+    margin-bottom: 12px;
+    background-color: aliceblue;
+    
+}
+.cartindex div{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cartImg{
+    width: 60%;
+    height: 100%;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   top:50% ;
+   left: 5%;
+}
+
+
+#cartimg{
+   position: relative;
+   top: 50%;
+   left: 50%;
+   
+}
+button{
+    height: 50px;
+    width: 15%;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 25px;
+   box-shadow: #fff;
+   position: relative;
+   left: 45%;
+}
+button:hover{
+    border: 1px solid blue;
+    color: blue;
+    background-color: #fff;
+}
+#payment{
+    height: 50px;
+    width: 100px;
+    display: flex;
+    justify-content:space-between;
+    gap: 10%;
+}
